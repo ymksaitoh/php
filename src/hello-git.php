@@ -6,6 +6,7 @@
     <title>hello git</title>
 </head>
 <body>
-    hello git
+    <h2>HELLO GITHUB</h2>
+    <p>hello git</p>
 </body>
 </html>
